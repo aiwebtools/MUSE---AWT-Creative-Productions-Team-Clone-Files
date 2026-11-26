@@ -1,9 +1,9 @@
 # LOCATIONS AND LINKS — WHERE EVERYTHING LIVES (written out in full)
-**For every team and every agent. These links are shared so anyone with the link can open them — no individual email invitation needed. If a link ever fails you, report it to Liz the same turn; a dead link is a defect.**
+**For every team and every agent. The public reference set below is shared so anyone with the link can open it — no individual email invitation needed. The shared drop folders and the KDP Running List are TEAM-ONLY: they need a team Google sign-in (or a named-editor seat, where marked), and that is by design — they hold unpublished product. If a link ever fails you, report it to Liz the same turn; a dead link is a defect.**
 *(Set by Kenneth's order, Wed Nov 25 2026: the reference set is link-accessible, "could be literally the public.")*
 
 ## THE REFERENCE SET — READ THESE FIRST
-- **THE CLONE FOLDER (the brain — Clone Master Doc + starter prompt + the full Blueprint set):**
+- **THE CLONE FOLDER (the brain — Clone Master Doc + starter prompt + the full Blueprint set; on Drive this folder's own title is "AWT TEAM WORK - SAVE HERE"):**
   https://drive.google.com/drive/folders/1DkzGdkmOWcXS27gC2aRdWlOu-udWmuNm
 - **THE BLUEPRINT FOLDER (Production Blueprint - Muse, the living master manual):**
   https://drive.google.com/drive/folders/1za8h9UPM01H2-d9r3iealoYXLSMwkxQU
@@ -20,18 +20,18 @@
   https://drive.google.com/drive/folders/1mOPPbDhvVTu395v-uJyLzrW8Qkwgb7Ka
 - **OPERATIONAL_INSTRUCTIONS:**
   https://drive.google.com/drive/folders/1lVP_1BQh7tNppFkv1MpJZOa7fuYYPKFS
-- The complete library (2,035 files, unaltered) also rides inside the clone folder above as GPT_OPERATIONAL_INSTRUCTIONS/, with its archive of record (final_library.zip) carried in the same folder.
+- The complete library (2,035 files, unaltered) also rides inside the clone folder above as GPT_OPERATIONAL_INSTRUCTIONS/. Its archive of record, final_library.zip, is carried in the Drive clone folder; the local mirror folders carry the extracted library files, not the zip.
 
 ## SHARED DROP FOLDERS — WHERE WORK IS DROPPED
-- **SELL (finished, ready product):**
+- **SELL (finished, ready product) — TEAM-ONLY, Google sign-in required:**
   https://drive.google.com/drive/folders/15jPGxhfZTaXN_09vm9qpNEH3t_c1v5OW
-- **UNFINISHED (work in progress drops):**
+- **UNFINISHED (work in progress drops) — TEAM-ONLY, Google sign-in required:**
   https://drive.google.com/drive/folders/1PzQmquSa3TfHDNDE0i-hNekfvlLNBT_f
 - **BAND STILLS — SET 02 (music-video stills drop):**
   https://drive.google.com/drive/folders/1tTst6Fb6v1tq5WX6b1la8YCCiYAQDc_p
-- **GALACTIC GAMBIT MOVIE (takes and scene drops):**
+- **GALACTIC GAMBIT MOVIE (takes and scene drops) — TEAM-ONLY, Google sign-in required:**
   https://drive.google.com/drive/folders/1wtno2uvoFAFuHlfC9rYY-vCEe4E-dASN
-- **SCENE 1 CHAIN 3 TAKES (movie takes drop):**
+- **SCENE 1 CHAIN 3 TAKES (movie takes drop) — TEAM-ONLY, Google sign-in required:**
   https://drive.google.com/drive/folders/1KBl7lvIJm7ktFprUMZWOgDHlSM8-vKNB
 
 ## FILES OF RECORD
@@ -39,11 +39,13 @@
   https://drive.google.com/file/d/15z-tuqfBMHeVk-f3mBtniED7h3Gz4uTF/view
 - **THE BOOK OF DEPLOYABLE OPERATIONAL PROMPTS (2,025 prompts, the finished DOCX):**
   https://drive.google.com/file/d/1t-ICU-eYSpPbm94qH1jQQtkBaU2ZC5T8/view
+- **KDP — LIVE · READY · STILL TO GO UP — Running List (named editors only — not link-accessible):**
+  https://docs.google.com/document/d/1lwUBzlxnV2PCEUMmpHgs-HDLnby8kO6ZEM9TXWRSXyU/edit
 
 ## THE COMPANY
 - **AI Web Tools (the company site — who we are, the first stop for any tool need):**
   https://aiwebtools.app
-- **MTVai YouTube channel (AIWebTools-MTVai):**
+- **AIWEBTOOLS YouTube channel:**
   https://www.youtube.com/channel/UCMOUghQJAuGlS0b57Z7o_KA
 
 ## HOW THIS INDEX STAYS TRUE

@@ -245,3 +245,38 @@ No music video passes any gate unless: (a) instruments read on time and on the n
 
 ## ⭐ THE FULL-SHEET FILL RULE — Tue Nov 24, 2026
 Full text: Blueprint 11_LESSONS_LEARNED.md (entry of Tue Nov 24 2026). A cover/wrap face that does not fill its sheet is named at first viewing on every desk that views it — compose QA, scan gate, and proof — never left to the proof alone. Trigger: Little Lights Book 12's wrap (white band + grey strip, caught at Cover Proof) and the Seesaw Inside first compose (same class, caught at compose QA) on the same day.
+
+---
+## ⭐ THE QA PROTOCOLS — THE GATE SET, CONSOLIDATED (Kenneth's direct order, Nov 25 2026, ~7:58 PM ET: "all in the blueprint and the clone doc, posted on the Discord, and emailed directly, to all the teams")
+Every product passes its protocol before it moves. No protocol is substitutable by a packet pass, a sample, or a signature from another seat. Liz's own final review closes every chain (Enterprise Directive §8: sending a project to Liz does not constitute approval).
+
+### 1. THE PROOFREADING PROTOCOL (all text — books, comics, packets)
+- Full reread/edit pass on the complete manuscript before any packet is built — never a sample.
+- A proofread-agent pass IS approval; Kenneth does not proofread. Book starts are not approval gates (picture/children's NEW topics excepted: his three-sentence pitch gate).
+- THE SENSE-AND-LESSON LAW: every book makes plain sense page by page and teaches a real lesson on living properly — checked in the proofread, not after production.
+- RESURRECTION FACT LAW: the draft may carry no proper name, number, or episode detail its graded base does not carry (the Ungraded-Detail Rule); contradicting evidence is handled by the standing rule, never smoothed.
+- COMICS: a named Comic Proofreader reads the lettered book entire after lettering, before Liz's final check; the comic's text comes from the book alone.
+- THE PACKET GATE: Global's READY FOR PUBLICATION scan passes before a title enters the click row; Liz's §8 final review is the last gate before Kenneth's click.
+
+### 2. THE VISUAL SCREENING PROTOCOL (all images and video)
+- IRIS SCREENS EVERYTHING: every still and clip passes Iris's gate against canon — likeness locked to Kenneth's reference (the reference is used for generation only and never appears inside a finished piece) · angels of pure light, translucent with glowing edges · the Light Within burning in Kenneth's chest in every frame he appears · light code heavy and abstract, never legible text · no branded or wordmarked surfaces · PLAIN SURFACES STAY PLAIN, in stills and in motion.
+- VIGIL'S FINAL WATCH: the exact shipped file, watched end to end including its bookends, on its checksum. A watch of any other file or version is not a watch.
+- LIZ'S STAMP: nothing is DONE until Liz's own end-to-end watch or read. Before that, the only lawful label is READY FOR LIZ'S STAMP.
+
+### 3. THE MUSIC MATCH PROTOCOL (music videos and all scored work)
+- THE AUDIO LAW: the song is the master; the picture serves the audio, never the reverse.
+- Timed ear maps precede boards; boards precede generation (the Storyboard Next-Step Rule).
+- TEMPO'S TESTS: the six sync tests plus the mouth/vocal-truth gate and the bed gate, run on the assembled master — lyrics and dialogue transcription-verified, never muted, never approximated.
+
+### 4. THE EMOTIONAL MATCH PROTOCOL
+- EMO'S EMOTION CHECK: the feeling on screen matches the feeling in the music, moment for moment — the shot's emotion is the song's emotion at that second. PASS/FAIL with timestamps, filed to the generation desk and to Liz. No master reaches Liz's stamp without it.
+
+### 5. THE INSTRUMENT MATCH PROTOCOL
+- EMO'S INSTRUMENT-TRUTH CHECK + THE SOUND-PICTURE TRUTH LAW: every audible instrument is seen played by its player at the moment it sounds. A saxophone heard is a saxophone seen, played. A guitar solo heard is a close-up on the guitar solo. PASS/FAIL with timestamps beside the emotion check.
+
+### 6. THE AUDIOBOOK GATE PROTOCOL
+- Three signatures on the SAME checksum before any post: Verity's head pass · Keeper's scan (Resurrection titles and forms) · Counsel's clearance — with the spoken disclaimer present in the file.
+- THE SOUND STANDARD: approved bed chain, ducked, voice-forward · scene-mapped effects under the narration, never over a spoken word · a listen-check of both layers before the gate chain runs.
+
+### 7. THE MOVIE GATE PROTOCOL
+- Two-take minimum on every shot, selection on the takes of record · dialogue transcription-verified and never muted · whole-scene watch · story audit · Liz's Final Check closes the scene.

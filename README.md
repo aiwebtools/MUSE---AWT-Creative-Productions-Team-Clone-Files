@@ -9,7 +9,7 @@ The complete clone documentation of the AWT Productions Muse — Liz, Lead Agent
 - **START_HERE.txt** — the reading order.
 - **BLUEPRINT/** — the full Production Blueprint set: the living master manual for book writing, movie making, music videos, audiobooks, publishing, QA gates, team protocol, and every lesson learned, kept current as the work teaches it.
 - **LOCATIONS_AND_LINKS.md** — every shared folder and file of record, full URLs written out.
-- **GPT_OPERATIONAL_INSTRUCTIONS/** — the complete GPT operational instructions library of AI Web Tools: 2,000+ operational instruction files, unaltered, exactly as written. (The library's Word-document files and its archive ride in the public Drive folders linked below — GitHub's connector route cannot carry binary files; the text files of the library are here in full.)
+- **GPT_OPERATIONAL_INSTRUCTIONS/** — the complete GPT operational instructions library of AI Web Tools: 2,000+ operational instruction files, unaltered, exactly as written. (The library's Word-document files (.docx), its spreadsheet (.xlsx) and preserved-source (.original) files, its archive, and the Blueprint set's one image file (BLUEPRINT/kdp_hardcover_template_6x9.jpg) ride in the public Drive folders linked below — GitHub's connector route cannot carry binary files; every text file of the set, the CSVs included, is here in full.)
 
 ## The public Drive homes (anyone with the link)
 

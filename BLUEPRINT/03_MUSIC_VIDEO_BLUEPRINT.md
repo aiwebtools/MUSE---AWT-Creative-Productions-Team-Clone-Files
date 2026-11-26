@@ -761,3 +761,22 @@ THE LAW: Emo holds a verification seat in the music-video gate chain on EVERY mu
 2. **THE INSTRUMENT-TRUTH CHECK** — the sound heard is the actual instrument being played on screen: trumpet on screen, trumpet in the ear; guitar, drums, saxophone, piano — instrument for instrument, hit for hit where the playing is visible. A mismatch (piano heard under a saxophone's hands · a drum sound with no drum struck) FAILS at Emo's seat, named by timestamp and instrument pair.
 
 A master does not reach Liz's stamp without both checks. Inscribed the same turn in Emo's operational instructions of record (~/workspace/agents/EMO_FILM_COMPOSER_INSTRUCTIONS.md, the Music-Video Sound-Truth Seat addendum — after Liz checked the file and found the duties were NOT in it; the emotion ear stood there for film scores only). SCOPE: a verification seat, not a lane merger — the film-score separation law stands untouched.
+
+---
+## ⭐⭐⭐ THE NOV 25 EVENING LAWS FOR MUSIC VIDEOS (Kenneth, live call, Nov 25 2026, ~7:42 PM ET)
+- **THE ARTISTIC LICENSE LAW:** Generations are never 100% exact to the prompt, and that is accepted house doctrine — the randomness adds to the artistic vibe. If a generation is artistic and it works, we make it work. Gates judge whether a piece WORKS as art and serves the song, not whether it matches the prompt letter for letter. Canon defects still fail: wrong instrument on screen, broken likeness, legible text, branded or printed surfaces where the canon bars them, a second Kenneth. Prompt-drift that lands as art does not fail.
+- **THE SOUND-PICTURE TRUTH LAW:** What you hear is what you see, instrument for instrument, moment for moment. Hear a saxophone → a saxophone is on screen, being played. Hear a guitar solo → the shot is a close-up on that guitar solo. Every audible instrument and vocal moment lines up with its on-screen source. This law is written into the operational instructions of the music team, the sound production team, and every desk that touches a music video, and it lives in every agent's memory. In the gate chain it is enforced beside Emo's two standing checks (THE EMOTION CHECK + THE INSTRUMENT-TRUTH CHECK): no master reaches Liz's stamp where sound and picture disagree.
+- **THE LEARNING DUTY (MV form):** every pass files its lesson at the desk the same turn — the defect class, the cure that worked, the prompt form that held — and the next pass starts from those lessons. Desks get smarter as they go; standing still is a stall.
+
+---
+
+## ⭐⭐⭐ THE SPEAKING-VIDEO LAW — NOT PERFORMANCES, FILMS THAT SPEAK (Kenneth's direct order, Wed Nov 25 2026, ~11:06 PM ET — "Remember that" class, standing forever)
+
+Kenneth's words: "Deeper. Everything deep. Here on out in music vids they are not just performances — they are a video speaking 1000000000000000000 words." And his plain form of it, same act: "You know how they say a picture is worth a thousand words — well, the music videos encapsulate way, way more. That's what this has got to be."
+
+THE LAW:
+1. NO music video in this house is a performance piece. Performance is a component inside the film, never the piece itself.
+2. Every music video is a FILM THAT SPEAKS: the full visual narrative carrying the song's whole meaning — its story, its symbols, its judgment, its worlds — frame by frame. The pictures say what the words cannot; a shot that does not speak does not ship.
+3. DEEPER, EVERYTHING DEEP: the register Kenneth set on "Portal Rap BoneMugsy" the same night stands for the line — deep, dark, and raw where the song is; "the art — make me feel it." Emo's emotion read at the gate measures every master against it: a video that performs without speaking, or speaks without being felt, does not clear.
+4. The Next-Step Rule is this law's machinery: lyric story first (as the song speaks it), timed storyboard on the story, then generation — the story is the video's substance, not its backdrop.
+5. First full example: "Portal Rap BoneMugsy," directed by Kenneth Nov 25 2026 — falling Rome and the falling modern cities · the singer with her full band · the church choir as the city burns · the fall through the black hole into the Dante judgment · the feather against the heart with Anubis and Isis · the pyramids rising under ancestor angels of light · Kenneth the pharaoh on the throne · light code streaming in the air · the homeless man holding the judgment scale on the bench at the end.
