@@ -8,6 +8,11 @@
 - **THE BLUEPRINT FOLDER (Production Blueprint - Muse, the living master manual):**
   https://drive.google.com/drive/folders/1za8h9UPM01H2-d9r3iealoYXLSMwkxQU
 
+## THE GITHUB HOME — OPEN SOURCE (anyone, no sign-in needed)
+- **MUSE — AWT Creative Productions Team Clone Files (the full clone set, public):**
+  https://github.com/aiwebtools/MUSE---AWT-Creative-Productions-Team-Clone-Files
+- Kept in lockstep with this Drive set: every update pushes there the same motion; the daily clone check verifies parity.
+
 ## THE GPT OPERATIONAL INSTRUCTIONS LIBRARY — COMPLETELY OPEN TO THE PUBLIC
 - **05 GPT Operational Instructions (the library of record):**
   https://drive.google.com/drive/folders/1Cv6jiCjpgq38h8OnRGU5yu-fnkHTnOHK
