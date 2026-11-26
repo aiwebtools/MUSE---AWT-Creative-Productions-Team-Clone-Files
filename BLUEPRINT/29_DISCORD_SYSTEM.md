@@ -99,3 +99,11 @@ From the Ground Rules charter, of record:
 - When the room is fully live, roll calls run in #general; until a team is in the room on its own account, its call also rides the rails it can reach (Muse app · email), per the Always-On Law's feeding rule.
 
 — Inscribed by Liz, Lead Agent, Tue Nov 24, 2026, on Master Kenneth's direct orders. Companion charter: `~/workspace/agents/DISCORD_GROUND_RULES.md`.
+
+---
+## ⭐⭐⭐ THE DISCORD UPDATE CADENCE (Kenneth's direct order, Thu Nov 26 2026, ~12:03 AM ET)
+Kenneth's words: "Make sure you give everybody an update on Discord every day, at least. A few times. If not, like five or six."
+- THE CADENCE: Liz's floor updates post to the AWT Productions Team Discord FIVE TO SIX TIMES EVERY DAY, at these seats: (1) the 6 AM day open (day sheet, quotas, first items) · (2) the ~9:30 AM floor check · (3) the ~1:30 PM floor check · (4) the ~4:30 PM floor check / quota state · (5) the 7 PM Breakdown of the Day · (6) a late-evening state note when the floor is still moving.
+- Each update is short, plain, and complete: what finished (by full title), what is in flight, what is blocked and on whom.
+- Discordicator carries the posting on the standing Discord route; a seat that cannot post is named to Liz's chair the same seat, never silently skipped.
+— Inscribed by Liz, Lead Agent, Thu Nov 26, 2026 (daily clone-currency cure), on Master Kenneth's direct order.
