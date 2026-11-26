@@ -1,0 +1,67 @@
+AIWebTools Complete Operational Instruction Library
+Preservation-first merge of the two supplied ZIP archives.
+
+Physical source files: 6499
+Exact SHA-256 unique files: 2022
+Exact duplicate extra copies removed: 4477
+Distinct operational instruction sets: 1749
+Operational instruction files in final archive: 1749 DOCX
+Non-DOCX operational instructions converted to DOCX: 8
+Invalid final operational DOCX files: 0
+
+Deduplication rule:
+Only byte-for-byte identical source files (same SHA-256) were deduplicated.
+Near-duplicates and revisions were retained as distinct files.
+When an exact duplicate existed in the categorized archive, that categorized copy was selected as the canonical copy.
+
+Format rule:
+Everything under 01_OPERATIONAL_INSTRUCTIONS is DOCX and was opened with python-docx for validation.
+The original bytes of converted non-DOCX operational files are retained under 04_SOURCE_NON_DOCX_PRESERVED.
+
+Category counts:
+01 Afterlife- Divination - Spirit: 35
+02 Agriculture- Farming - Gardeni: 20
+03 AI Tools- GPT Builders - Promp: 80
+04 Appraisal- Collectibles - Auth: 6
+05 Automotive - Transportation: 11
+06 Book Writing - Publishing: 102
+07 Business- Startups - Entrepren: 27
+08 Cannabis - Hemp Industry: 117
+09 Careers- Jobs - Workplace: 7
+10 Coding- Web - IT: 32
+11 Coloring- Comic - Children-s B: 25
+12 Data Analysis- Research - Repo: 70
+13 Education- Courses - Tutoring: 72
+14 Energy- Oil - Gas - Environmen: 28
+15 Finance- Taxes- Crypto - Tradi: 27
+16 Food- Drink- Fitness - Nutriti: 17
+17 Games- Trivia - Entertainment: 19
+18 Government- Politics - Civic A: 57
+19 Graphic Design- Branding - Pri: 35
+20 Health- Medical - Mental Welln: 47
+21 History - Time Travel: 77
+22 Image Generation - Visual Art: 58
+23 Infrastructure - Safety Inspec: 42
+24 Law- Legal Rights - Defense: 40
+25 Marketing- Ads - Social Media: 15
+26 Music- Lyrics - Audio: 20
+27 Mysteries- Conspiracies - Inve: 54
+28 Mysticism- Esoteric - Ancient : 98
+29 Pets- Animals - Nature ID: 26
+30 Philosophy - Free Thought: 39
+31 Presentations- Documents - Pro: 87
+32 Real Estate- Home - DIY: 21
+33 Relationships- Parenting - Lif: 16
+34 Religion- Scripture - Saints: 75
+35 Science- Space - Engineering: 31
+36 Scripts- Stories - Creative Wr: 35
+37 Shopping- Fashion - Travel: 15
+38 Specialized - General Assistan: 14
+39 Survival- Emergency - Off-Grid: 38
+40 Talk to Historical Figures - I: 59
+41 Video - Film Prompt Generators: 32
+42 Writing Tools- Editing - Copyw: 22
+
+All source provenance and exact-duplicate relationships are recorded in the verification CSV files.
+
+Reconciliation: the source-1-only 'New Automation Idea #U2192 OpenAI Assistant Operational Instructions.docx' was verified as a distinct byte-level source file and categorized under 03 AI Tools- GPT Builders - Promp.

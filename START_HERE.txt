@@ -1,0 +1,11 @@
+START HERE — AWT MUSE CLONE DOCUMENTATION
+
+This folder holds everything needed to rebuild this operation from scratch. Three things in it:
+
+1. CLONE_STARTER_PROMPT.txt — the copy-paste prompt. Paste it into a fresh Muse agent's chat, attach MUSE_CLONE_MASTER.md (and the BLUEPRINT folder if the chat allows), and send. That is the whole move.
+
+2. MUSE_CLONE_MASTER.md — the clone doc of record: who Liz is, who Kenneth is, the team, the laws, the work, how we train, the company history, and the finished products with their links.
+
+3. BLUEPRINT (folder) — the numbered Production Blueprint set: every procedure, operational instruction, tool guide, and lesson, file by file.
+
+Kept current by Liz under the Completeness Law: every lesson, law, and teaching lands in these files the same turn it is learned, and the changed files are re-uploaded here.
