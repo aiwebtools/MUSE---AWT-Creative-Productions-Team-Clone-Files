@@ -258,3 +258,81 @@ THE DOCTRINE, ALL PROJECTS:
 5. CARVE-OUTS: work already in flight on an external seat finishes there (no mid-flight swap that loses work) · seats Kenneth named by a specific law stand until he changes them (his KDP clicks; the spa commercial's named form) · if our own generator fails the gate twice on the same shot, the external seat takes that shot, named to Liz the same turn.
 6. FIRST PROOF (same evening): Universe in My Chest K3 — a seat the external generator had refused — landed on Muse video generation at the first attempt and stood at the gate; and Liz generated three Kenneth band-performance clips (trumpet at the eclipse arena · drums on the aurora ice plain · saxophone in the wheat field at sunset) on Muse video generation with the fresh image, 10 seconds each, banked at ~/workspace/musicvideo/band_stills_library/own_generator_round_1/.
 7. The email of record carrying this doctrine to every team holding handed-out music video work: "@ ALL TEAMS FROM LIZ — Use your own tools for the music video work — effective now" (sent Nov 25 2026, ~7:34 PM ET, to the team leads with the full CC set).
+
+
+---
+
+## ⭐⭐⭐ THE GPT & TOOLS LINKS REGISTER (Kenneth's direct order, Thu Nov 26 2026, ~12:46 PM ET)
+
+Kenneth's words: "save this link too in the blueprint — all the gpts and tools links need to be saved — we made all these tools for the company to operate." THE LAW: every GPT and tool this company made or operates is saved BY LINK in this register, in the Blueprint, the moment Kenneth hands it over or it enters production use. A link handed to Liz and not inscribed here the same turn is a defect. New links append to this register in the same motion as their first use, and the changed Blueprint file re-uploads to the Drive Blueprint folder the same turn (Mirror Law).
+
+THE COMPANY SITE: **aiwebtools.app** — AI Web Tools LLC · AWT Productions. The directory of 5,500+ AI tools where the company's custom GPTs run free on-site; the `?via=aiwebtools` links below are the company's own app doors.
+
+THE PRODUCTION GPTs, BY NAME AND LINK:
+1. **Book Writer GPT (app)** — https://bookwritergpt.lovable.app/?via=aiwebtools — the book-writing seat: setup, full outline, page-by-page writing, compiled book. (In-app note of record, Nov 26 2026: the app's V7.5 button opens a dead placeholder link; the working seat is V7 below.)
+2. **Book Writer GPT for Long Chapter Books (V7, ChatGPT)** — https://chatgpt.com/g/g-I9Dcfoe4m-book-writer-gpt-for-long-chapter-books-v7 — the working Book Writer GPT conversation seat (4.8 · GPT-4o).
+3. **Movie Script Writer GPT (app)** — https://moviescriptwritergpt.lovable.app/?via=aiwebtools — the movie seat: project setup, full outline, script draft, Hollywood production form. (Lovable Plan-mode mechanic rides this app: a plan does not execute until its Approve button is hit.)
+4. **Movie Scene Maker GPT (ChatGPT)** — https://chatgpt.com/g/g-680ea46ceb708191b9dcb9a4d2983f4f-movie-scene-maker-gpt — the scene-making step of the movie chain: takes the outline and produces each scene's package, scene by scene.
+5. **Movie Trailer & Poster GPT (ChatGPT)** — https://chatgpt.com/g/g-6814ab172de081918023593ce10d791d-movie-trailer-poster-gpt — the poster and trailer seat for the company's films: theatrical one-sheets (title large · author name KG Bastian in the smallest lettering) and trailer work.
+
+WORKING CONVERSATIONS OF RECORD (links kept for continuity, a distinct class from the tools above):
+- **Create Fantasy Franchise** (the Singularity Chronicles / Bell Rings origin conversation) — https://chatgpt.com/c/6b0869fc-e670-83ea-8720-2c7e28d24fac
+- **The Bell Rings book project** (Book Writer GPT V7) — https://chatgpt.com/g/g-I9Dcfoe4m-book-writer-gpt-for-long-chapter-books-v7/c/6b086b02-60fc-83e9-871d-f8db3dabce60
+- **Movie Scene Maker — Bell Rings Scene 1** — https://chatgpt.com/g/g-680ea46ceb708191b9dcb9a4d2983f4f-movie-scene-maker-gpt/c/6b086fe1-00a8-83e9-9de3-8ed5ba3bf0a0
+- **Movie poster creation** (Poster GPT) — https://chatgpt.com/g/g-6814ab172de081918023593ce10d791d-movie-trailer-poster-gpt/c/6b087023-cf40-83ea-8fab-1e77fa2f2b53
+
+
+### REGISTER RIDER — DIRECT URLS + THE MODEL DOCTRINE (Kenneth's direct order, Thu Nov 26 2026, ~12:47 PM ET)
+
+Kenneth's words: "all tools save urls — we made many tools for our projects — direct urls allow u to bypass the advertisement of the main directory portal — we have glm 5.3 flash running in that site which is ok but better models are available for such and should be harnessed when available, gpt 6 etc."
+
+1. **DIRECT URLS, ALWAYS.** The register saves the DIRECT URL of every tool — the door that goes straight to the tool itself. The direct URL bypasses the advertisement of the main directory portal (aiwebtools.app's front door); production work rides the direct URLs, never the portal's ad layer.
+2. **THE MODEL DOCTRINE.** The on-site apps run GLM 5.3 Flash — that is acceptable and it works. But better models are available for this work (the GPT-6 class and its successors, the strongest current GPT seats) and they SHALL be harnessed whenever available: when a tool exists both as an on-site app and as a direct GPT seat on a stronger model, the stronger seat is the working seat of record, and the register names both doors. First proof, same day: the Book Writer GPT app's V7.5 button was a dead placeholder while its V7 GPT seat (GPT-4o class) produced the outline and Chapter 1 entire; the Movie Script Writer app itself routes to the Movie Script Writer GPT — the GPT seat is where the production happened.
+
+REGISTER ADDENDUM — links surfaced in production, Thu Nov 26 2026:
+6. **Movie Script Writer GPT (ChatGPT, by Kenneth G Bastian)** — https://chatgpt.com/g/g-ZoZ12NUed-movie-script-writer-gpt — the GPT seat the Movie Script Writer app (item 3) routes to; the Bell Rings 30-scene movie outline was generated in it.
+- Working conversation: **The Bell Rings movie project (Movie Script Writer GPT)** — https://chatgpt.com/g/g-ZoZ12NUed-movie-script-writer-gpt/c/6b087022-2da4-83e9-bd8f-54ab33729b8f
+- Working conversation: **Movie Scene Maker — Bell Rings Scene 1 package** (the package of record; the earlier conversation …/c/6b086fe1… would not load under a ChatGPT temporary limit) — https://chatgpt.com/g/g-680ea46ceb708191b9dcb9a4d2983f4f-movie-scene-maker-gpt/c/6b0870ad-90e0-83e9-b32b-b254ef0762c5
+
+- **Book Writer GPT (ChatGPT, second door — handed by Kenneth, Nov 26 2026, ~12:57 PM)** — https://chatgpt.com/g/g-F09wUSmod-book-writer-gpt — inscribed the turn it was handed over; its working relationship to the V7 seat is read at first use and noted here.
+- **Movie Scene Maker GPT (app)** — https://moviescenemakergpt.lovable.app/?via=aiwebtools — the scene maker's app door, beside its ChatGPT GPT seat (item 4).
+
+### THE FULL-SUITE LAW (Kenneth's direct order, Thu Nov 26 2026, ~12:57 PM ET)
+Kenneth's words: "they are all on the main sites — go to them, gather each of the direct tool links and formulate a directory of urls — additionally download and use the directory list that's downloadable and is in our drive — all the urls are in a spreadsheet to go directly to the urls of the needed tools — all GPT with custom names we made — and you are to utilize the full suite in all productions to the max."
+THE LAW: (1) Liz maintains a DIRECTORY OF DIRECT URLS for the whole custom-named GPT suite the company made — gathered from the tools' own pages on the main sites, reconciled against the directory spreadsheet of record in Drive ("Featured Custom GPTs – Master List (547 cards)," Drive id 13spl0BuxIlomcBxOIpN-g3jWG8T6SWPChgLWtC_mUmE, until superseded). (2) The full suite is UTILIZED IN ALL PRODUCTIONS TO THE MAX — every production routes through every company GPT that serves its line, at the strongest model seat available, per the Model Doctrine above. A production that leaves a serving company tool unused is under-produced by definition.
+
+### THE DIRECTORY OF RECORD — DOWNLOADED AND IN USE (Thu Nov 26 2026, ~1:00 PM ET)
+The directory spreadsheet Kenneth named is DOWNLOADED from Drive and parsed: **"Featured Custom GPTs – Master List (547 cards)"** (Drive id 13spl0BuxIlomcBxOIpN-g3jWG8T6SWPChgLWtC_mUmE) — local copies: `~/workspace/tools_directory/Featured_Custom_GPTs_Master_List_547.xlsx` (135,603 B) + the working extract `~/workspace/tools_directory/DIRECTORY.csv`. **577 entries**, each with its direct Card Link and its operational-instructions document link: 257 ChatGPT GPTs · 187 Perplexity bots · 125 Lovable apps · 6 Gemini Gems · 2 other. This spreadsheet is the directory of record; the register above names the working seats, the CSV carries the whole suite.
+THE PRODUCTION CORE (direct links, from the sheet):
+- Children's Picture Book Maker GPT (app) — https://childrensbookmaker.lovable.app/?via=aiwebtools
+- Coloring Book Generator GPT (app) — https://coloringbookgeneratorgpt.lovable.app/?via=aiwebtools
+- Music Video Maker AI Studio (app) — https://musicvideomakergpt.lovable.app/?via=aiwebtools
+- Movie Maker Studio AI Suite (app) — https://moviemakerstudio.lovable.app/?via=aiwebtools
+- Video Second By Second Analysis GPT (app) — https://videoanalysisgpt.lovable.app/?via=aiwebtools
+- VEO 3 Prompt Movie Scene Maker "Open Mic" Edition (Gemini Gem) — https://gemini.google.com/gem/c931bd6f36df
+- Book Writer Gemini (Custom Gem) — https://gemini.google.com/gem/ac3de7972849
+- Meta.ai Video Prompt Generator GPT — https://chatgpt.com/g/g-691b5852be7c8191beda5d0429f727bd-meta-ai-video-prompt-generator
+- SORA2 Text to Video Prompt Maker GPT — https://chatgpt.com/g/g-69326acb5f348191a2f85c2cdc848c4d-0ra2-text-to-video-prompt-maker
+- VEO3 Text to Video Prompt Generator — https://chatgpt.com/g/g-682faef24c608191808180e89719cb09-veo3-text-to-video-prompt-maker
+- Perplexity production variants (Book Writer ×6 forms · Movie Script Writer · Movie Scene Maker · Comic Book Maker/Generator · Coloring Book Generator + Compiler · Music Video Maker · Children S Picture Book Generator · Video Audio Merger · Video Second-by-Second Analysis) — direct links in DIRECTORY.csv.
+
+### SITE-WALK ADDITIONS — gathered from the tools' own pages on aiwebtools.app (Thu Nov 26 2026, ~1:10 PM ET)
+The site walk reconciled the four flagship seats against their own pages (all confirmed as registered) and gathered these additional company tools, inscribed the same turn per the register law:
+- **Commercial Scene Maker GPT** — https://chatgpt.com/g/g-681a201fe69c8191b99e1636be90139e-commercial-scene-maker-gpt
+- **ScreenPlay Writer GPT (app)** — https://screenplaywritergpt.lovable.app/
+- **Book Cover Maker GPT** (slug: graphic-cover-design-gpt) — https://chatgpt.com/g/g-6812c1c50ed48191b6b1647d7d52c62b-graphic-cover-design-gpt
+- **Comic Book Maker GPT (app)** — https://comicbookmakergpt.lovable.app/?via=aiwebtools
+- **Coloring Book Maker GPT (app, second door)** — https://coloringbookmaker.lovable.app/?via=aiwebtools (beside the Generator app door in the Directory of Record)
+- **Podcast Script Writer GPT (app)** — https://podcastwritergpt.lovable.app/?via=aiwebtools
+- **PlayWriter GPT (app)** — https://playwritergpt.lovable.app/
+- **StageMaster AI Suite (app)** — https://stagemasterai.lovable.app/ · **Theater Set Design GPT** — https://chatgpt.com/g/g-67cde1ee39748191b7b3721323131801-theater-set-design-gpt · **Costume Design GPT** — https://chatgpt.com/g/g-67cde23ac77081918dfbfb17831e408d-costume-design-gpt · **Choreography GPT** — https://chatgpt.com/g/g-67cde6205164819189f48fefadc02991-choreography-gpt · **Stage Lighting GPT** — https://chatgpt.com/g/g-67cde71b4f208191836a7db7efb9f1d2-stage-lighting-gpt
+- **THE SITE'S OWN DIRECTORY DOWNLOAD:** aiwebtools.app carries a "DOWNLOAD 5,437 AI TOOLS (CSV)" button (the ALL AI TOOLS page + every tool page's footer); the file is downloaded and banked at ~/workspace/tools_directory/ai_tools_directory_5437.csv (5,437 rows) beside the Master List spreadsheet — the two directories ride together as the directory set of record.
+- NOTED: no company custom Audiobook GPT exists on the site (audiobook line runs on its own standing tools); the Movie Trailer Poster GPT has no standalone directory detail page — its site entry is the in-site runner; its direct door is the ChatGPT GPT link as registered.
+- WORKING CONVERSATIONS ADDENDUM (Thu Nov 26 2026): Draconari book project (Book Writer GPT V7) https://chatgpt.com/g/g-I9Dcfoe4m-book-writer-gpt-for-long-chapter-books-v7/c/6b087433-fe0c-83e9-8fd9-719930251f93 · Draconari movie project (Movie Script Writer GPT) https://chatgpt.com/g/g-ZoZ12NUed-movie-script-writer-gpt/c/6b087447-27fc-83ea-bd90-676e90c6320a · Galactic Gambit poster https://chatgpt.com/g/g-6814ab172de081918023593ce10d791d-movie-trailer-poster-gpt/c/6b08710e-1300-83e9-8b9e-d4e3a774df4b · THE WAR WITHIN poster https://chatgpt.com/g/g-6814ab172de081918023593ce10d791d-movie-trailer-poster-gpt/c/6b087180-bab4-83ea-87fc-9ad7c4a92338.
+
+### COLLEGE DEGREE SEATS — inscribed (Thu Nov 26 2026, ~11:57 PM ET, Kenneth's College Degree line launch)
+The College Degree line's seats of record, added to the register on Kenneth's direct order at the line's launch (the full line protocol: Blueprint 38_COLLEGE_DEGREE_PROGRAMS.md):
+- **College Degree GPT (app)** — https://college-degree-gpt.lovable.app/?via=aiwebtools — the working seat: full degree programs generated, fully taught, compiled into one course book per degree; the app also hosts the FREE downloadable degree PDFs (one fresh degree added to the lineup daily).
+- **College Degree GPT (Perplexity edition)** — https://www.perplexity.ai/projects/college-degree-gpt-HbW_VTRiQNiPBtUqbSPe4g
+- **College Professor GPT** — https://chatgpt.com/g/g-68c049b652f8819195c722dbd4971797-college-professor-gpt — the professor-voice seat (institution emulation: each degree emulates the most fleshed-out program among the top three schools for its field, in that school's teaching methods and professor voice).
+- **College Degree GPT — Lovable project (the build of record)** — https://lovable.dev/projects/498c74af-a782-4b32-94ff-f143a187fccd
