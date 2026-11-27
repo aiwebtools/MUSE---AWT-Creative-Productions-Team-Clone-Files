@@ -2608,6 +2608,10 @@ THE REGISTER HOLDS **337 ENTRIES**, each numbered with its cadence, its owner, w
 
 ---
 
+## THE EMAIL DIRECTIVES REGISTER (Blueprint 39)
+
+Kenneth's direct orders, Fri Nov 27 2026, ~10:04–10:06 AM ET: Liz keeps a running list of all directives sent via email to each agent — what she told whom, and when — and that ever-expanding log stands present in the Clone folder and the Blueprint, logged as a day in the life of the agents. The result is **Blueprint 39 — THE EMAIL DIRECTIVES REGISTER**, riding in this clone folder's BLUEPRINT set as `BLUEPRINT/39_EMAIL_DIRECTIVES_REGISTER.md`, byte-identical to the master at ~/workspace/BLUEPRINT/39_EMAIL_DIRECTIVES_REGISTER.md (8,141 B · md5 01540fa1d8389506a01bfab69db97410 at inscription). The register of record lives at ~/workspace/agents/EMAIL_DIRECTIVES_REGISTER.md; every email directive is entered the same act it is sent, attempted, or prepared — date/time ET · recipient · what was told · the send state stated honestly (SENT · FAILED · PENDING · UNCERTAIN · PREPARED, NOT SENT · UNDELIVERED), never upgraded past what the send record proves — and every update re-mirrors to all four homes (register · Blueprint · Clone set + GitHub staging · Drive) in the same motion.
+
 ## THE TOKEN-TO-OUTPUT EFFICIENCY PLAN (Blueprint 37)
 
 **Kenneth's law (Nov 25 2026, ~7:42–7:45 PM ET):** token spend is welcome ONLY when verified finished output rises with it — "if I'm spending more tokens, I better be getting more products finished." A detailed efficiency plan was commissioned the same call; it is inscribed as **Blueprint 37** and rides in this clone folder's BLUEPRINT set.
