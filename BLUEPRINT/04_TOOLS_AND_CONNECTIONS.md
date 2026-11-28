@@ -336,3 +336,8 @@ The College Degree line's seats of record, added to the register on Kenneth's di
 - **College Degree GPT (Perplexity edition)** — https://www.perplexity.ai/projects/college-degree-gpt-HbW_VTRiQNiPBtUqbSPe4g
 - **College Professor GPT** — https://chatgpt.com/g/g-68c049b652f8819195c722dbd4971797-college-professor-gpt — the professor-voice seat (institution emulation: each degree emulates the most fleshed-out program among the top three schools for its field, in that school's teaching methods and professor voice).
 - **College Degree GPT — Lovable project (the build of record)** — https://lovable.dev/projects/498c74af-a782-4b32-94ff-f143a187fccd
+
+---
+
+### THE DOWNLOAD RULE — ALL GENERATIONS, A HABIT (Fri Nov 27 2026, ~5:18 PM ET; EXTENDED TO ALL GENERATIONS ~11:35 PM ET the same night)
+Standing law for ALL generation work on every surface (ChatGPT, Gemini, Google Flow, any PC or external generation seat): every generation — image, video, every kind — is DOWNLOADED the moment it is made, the Download button hit on each one, files landing in the PC's Downloads folder. It is a HABIT, not a per-run decision. Kenneth batch-uploads from Downloads to Drive himself; Muse cannot grab external generations without that upload, so no desk waits on Drive links for external generations and no un-downloaded generation counts as delivered. The all-teams email carrying this law was ordered by Kenneth the same act. (Inscribed by the daily clone-currency check, Sat Nov 28 2026.)
